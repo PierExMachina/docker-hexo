@@ -1,8 +1,7 @@
 ![](https://raw.githubusercontent.com/hexojs/awesome-hexo/master/hexo-logo.png)
 
 ## Tag available
-* lts, 8.9.3, 8.9, 8 [(Dockerfile)](https://github.com/pierexmachina/docker-node/blob/master/Dockerfile)
-* lts-onbuild, 6.11.0-onbuild, 6.11-onbuild, 6-onbuild [(Dockerfile)](https://github.com/pierexmachina/docker-node/blob/master/Dockerfile.onbuild)
+* latest [(Dockerfile)](https://github.com/pierexmachina/docker-hexo/blob/master/Dockerfile)
 
 ## Description
 A fast, simple & powerful blog framework, powered by [Node.js](http://nodejs.org).
