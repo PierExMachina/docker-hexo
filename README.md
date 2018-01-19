@@ -7,7 +7,7 @@
 A fast, simple & powerful blog framework, powered by [Node.js](http://nodejs.org).
 Based on node.js docker image for arm.  
 Tested only on Raspberry Pi 3.  
-Based on davyy hexo docker image https://github.com/davyyy/docker-hexo/blob/master/Dockerfile  
+Based on davyy hexo docker image https://github.com/davyyy/docker-hexo  
 
 ## docker hub
 [https://hub.docker.com/r/pierexmachina/hexo/] (https://hub.docker.com/r/pierexmachina/hexo/)
